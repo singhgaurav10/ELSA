@@ -1,0 +1,1313 @@
+did,mid,medicine
+1,1,Consult Doctor
+2,2,M-Simethicone
+3,3,T-Laparotomy
+4,4,M-Antibiotic
+5,5,T-Consult Doctor
+6,6,T-Immediately Admit to Hospital
+7,7,T-Immediately Admit to Hospital
+8,8,"T-Rest, Compress Leg, Use Ice Pack, Elevate the leg"
+9,9,T-Seek Rehab
+10,10,M-Sodium Bicarbonate
+11,11,T-Stereotactic radiation therapy
+12,12,T-Physiotherapy
+13,13,T-Consult Doctor
+14,14,T-Consult Doctor
+15,15,T-Adenoidectomy
+16,16,T-Rest and Care
+17,17,M-Nonsteroidal anti-Inflammatory drug
+18,18,T-Individual Psychotherapy
+19,19,M-Vitamin
+20,20,"M-Sedative, Vitamin. T-Counselling, Family therapy"
+21,21,T-Alcohol Detoxification. M-Vitamin
+22,22,"M-Anxiolytic, Sedative, Vitamin"
+23,23,T-Consult Doctor
+24,24,"T-Sedative, Vitamin. T-Counselling and Therapies."
+25,25,"T-Sedative, Vitamin. T-Counselling and Therapies."
+26,26,"T-Soak in Oatmeal bath, or Baking Soda bath"
+27,27,M-Azelastine
+28,28,M-antihistamines
+29,29,T-Consult Doctor
+30,30,T-Consult Doctor
+31,31,"M-Nonsteroidal anti-Inflammatory drug,  Diuretic, Analgesic"
+32,32,M-Antibiotic and Antiparisitic
+33,33,T-Counselling and Therapy
+34,34,"M-dexmedetomidine, beta-blockers,  calcium channel blockers"
+35,35,T-Consult Doctor
+36,36,"M-Anaesthetic, Steroid, Dietary supplement, and Laxative"
+37,37,T-Consult Doctor
+38,38,M-Inject Epinephrine Immediately. T-Do CPR if the Person Stops Breathing
+39,39,"M-Dietary Supplements, Vitamin. T-Blood Transfusion"
+40,40,T-Wash and keep wound clean
+41,41,"T-Elevate Legs, Exercise"
+42,42,"M-aspirin, ibuprofen, naproxen(pain relief). T- Consult Doctor"
+43,43,M-Antiparasite and Antibiotic
+44,44,M-Antibiotics and Penicillin antibiotic
+45,45,M-Selective Serotonin Reuptake Inhibitor (SSRI) and Antipsychotic
+46,46,M-Selective Serotonin Reuptake Inhibitor (SSRI) and Antipsychotic
+47,47,"M-Antihistamine, Nonsteroidal anti-Inflammatory drug, and Analgesic"
+48,48,M-physostigmine salicylate
+49,49,T-Supportive Therapy
+50,50,"M-Selective Serotonin Reuptake Inhibitor (SSRI), Anxiolytic, Antidepressant, Sedative, and Nerve pain medication"
+51,51,"M-Selective Serotonin Reuptake Inhibitor (SSRI), Anxiolytic, and Antidepressant"
+52,52,M-Diuretic. T-(Surgery)Aortic valve replacement and Balloon valvuloplasty
+54,54,"T-Avoid hot beverages and foods as well as salty, spicy, and citrus-based foods."
+55,55,"M-Blood transfusion, Bone marrow stimulant, and Immunosuppressive drug"
+56,56,M-Antibiotics and Penicillin antibiotic
+57,57,T-Use First Aid Kit
+58,58,T-Rest
+59,59,"M-Antiarrhythmic agent, Calcium channel blocker, Beta blocker, and Dietary supplement. T-Cardioversion and Radiofrequency ablation"
+60,60,T-Embolization and Radiation therapy
+61,61,"M-Nonsteroidal anti-Inflammatory drug, Steroid, Analgesic, Narcotic, and Immunosuppressive drug. T-Hydrotherapy, Stretching, Massage, and Acupuncture"
+62,62,T-Consult Doctor
+63,63,"M-Nonsteroidal anti-Inflammatory drug. T-Bone surgery, Bone grafting, and Joint replacement"
+64,64,M-Sodium Bicarbonate
+65,65,"M-Bronchodilator, Steroid, and Anti-Inflammatory. T-Oxygen therapy"
+66,66,"M-Steroid, Antihistamine, and Topical antiseptic"
+67,67,"M-Beta blocker, Calcium channel blocker, Antiarrhythmic agent, and Blood Thinners. T-Cardioversion and Catheter ablation"
+68,68,T-Atropine and Transcutaneous/Transvenous Pacing
+69,69,M-Antibiotics
+70,70,M-Steroids to suppress immune system
+71,71,M-Steroids to suppress immune system
+72,72,T-Consult Doctor
+73,73,T-Apply ice packs
+74,74,"M-Antibiotics(Beta Lactums, Quinolones, Macrolides)"
+75,75,M-Antibiotics
+76,76,"M-Ciprofloxacin, metronidazole"
+77,77,M-Antifungal and Dietary supplement
+78,78,"M-Nonsteroidal anti-Inflammatory drug, Analgesic, and Steroid"
+79,79,T-Consult Doctor
+80,80,"M-Antifungal, Proton-Pump inhibitor, Antacid, and Steroid"
+81,81,M-Nonsteroidal anti-Inflammatory drug. T-Incision and drainage
+82,82,T-Rest. If headache persists then Consult doctor
+83,83,T-Consult Doctor
+84,84,"M-calcium, glucagon, adrenergic drugs, and amrinone"
+85,85,"M-Antacid, Anti-Inflammatory, and Steroid"
+86,86,T-Wash with soap and water. Apply a cold pack
+87,87,M-Steroid and Antiviral drug. T-Physiotherapy
+88,88,T-Epley maneuver
+89,89,M-Urinary retention medication
+90,90,T-Counselling and Therapy
+91,91,T-Admit to Detox Center
+92,92,T-Admit to Detox Center
+93,93,"M-Anticonvulsant, Antipsychotic, and Selective Serotonin Reuptake Inhibitor (SSRI). T-Support group, Cognitive behavioral therapy, Psychoeducation, Family therapy, and Psychotherapy"
+94,94,"M-Analgesic, Nonsteroidal anti-Inflammatory drug, and Antihistamine"
+95,95,T-Consult Doctor
+96,96,T-transurethral cystolitholapaxy
+97,97,T-Consult Doctor
+98,98,M-Antibiotics
+99,99,T-Blood Transfusion
+101,101,M-Selective Serotonin Reuptake Inhibitor (SSRI). T-Selective Serotonin Reuptake Inhibitor (SSRI)
+102,102,T-Consult Doctor
+103,103,M-Nasogastric intubation.
+105,105,"M-atropine, epinephrine, and dopamine"
+106,106,M-Antibiotics(ceftriaxone or cefotaxime plus metronidazole)
+107,107,T-Consult Doctor
+108,108,M-Antibiotics
+109,109,T-Consult Doctor
+110,110,T-Consult Doctor
+111,111,T-Breast Surgey
+112,112,"M-Bronchodilator, Steroid, and Anti-Inflammatory. T-Oxygen therapy"
+113,113,"M-Bronchodilator, Steroid, Penicillin antibiotic, and Antibiotics. T-Oxygen therapy"
+114,114,"M-Analgesic, Nonsteroidal anti-Inflammatory drug, and Bronchodilator. T-Nasal suctioning, Oxygen therapy, Can be self-healing, IV fluids, and Sodium chloride"
+115,115,"M-Nonsteroidal anti-Inflammatory drug, Analgesic, Narcotic, and Cough medicine"
+116,116,T-Clean with water and soap and apply antibiotic cream
+117,117,"M-Selective Serotonin Reuptake Inhibitor (SSRI). TSupport group, Cognitive behavioral therapy, Cognitive therapy, Dialectical behavior therapy, Intervention, Psychoeducation."
+118,118,T-Consult Doctor
+119,119,"M- Saliva replacement products. Specific oral rinses or lidocaine. Capsaicin, a pain reliever that comes from chili peppers"
+120,120,M-Topical antiseptic and Antibiotics
+121,121,M-Nonsteroidal anti-Inflammatory drug.
+122,122,T-Counselling and Therapy
+123,123,"M- Diuretics, beta-blockers, ACE inhibitors, calcium channel blockers and vasodilators"
+124,124,M-Anti-Inflammatory
+125,125,M-Antibiotics(Azithromycin)
+126,126,T-Consult Doctor(Chemottherapy)
+127,127,"M-Clotrimazole, Miconazole, Tioconazole, Ketoconazole, Nystatin"
+128,128,T-Breath pure Oxygen Immediately
+129,129,"M-Antiarrhythmic agent, Calcium channel blocker, Beta blocker, and Dietary supplement"
+130,130,"M-Blood Thinners, Beta blocker, ACE inhibitor, Diuretic, Antihypertensive drug, Statin, and Antiarrhythmic agent. T-Cardiac catheterization and Revascularization"
+131,131,T-Consult Doctor
+132,132,T-Stereotactic radiosurgery
+133,133,M-Steroid and Nonsteroidal anti-Inflammatory drug. T-Carpal tunnel surgery
+134,134,T-Consult Doctor for immediate surgery
+135,135,T-endovascular methods
+136,136,T-Antibiotic Therapy
+137,137,T-Consult Doctor
+138,138,T-Dental filling
+139,139,M-Dietary supplement and Vitamin
+140,140,M-Antibiotics and Penicillin antibiotic
+142,142,T-Consult Doctor immediately
+143,143,T-Supportive Therapy
+144,144,T-Consult Doctor
+145,145,"T-Occupational Therapy, Stretching, and Physical Therapy. M- Muscle Relaxant and Sedative"
+146,146,"M-Alteplase, Blood Thinners, Statin, Antihypertensive drug, and ACE inhibitor. T-Speech therapy, Rehabilitation, Occupational Therapy, Stroke rehabilitation, and Physical Therapy"
+147,147,T-Consult Doctor
+148,148,T-Use Warm Water to Soften the wax and clean
+149,149,T-Consult Doctor(Chemottherapy)
+150,150,T-Consult Doctor
+151,151,T-Consult Doctor
+152,152,T-Wear Cervical Brace
+153,153,"M-Analgesic, Nonsteroidal anti-Inflammatory drug, Muscle Relaxant, Steroid, Narcotic, and Anaesthetic"
+154,154,M-azithromycin or doxycycline
+155,155,M-Anti-Parasite
+158,158,T-Consult Doctor
+159,159,T-Abuse-focused cognitive behavioral therapy
+160,160,M-Antibiotics
+161,161,Consult Doctor
+162,162,T-nonemergent endoscopic retrograde cholangiopancreatography
+163,163,Antibiotics and Penicillin antibiotic
+164,164,Cholecystectomy and Laparoscopic surgery M-Cholesterol medication
+165,165,Cholecystectomy and Laparoscopic surgery M-Cholesterol medication
+166,166,Antibiotics
+167,167,Consult Doctor
+168,168,"Antidepressant, Support Groups"
+169,169,Consult Doctor
+170,170,Bronchodilator and Steroid
+171,171,"Nerve pain medication, Analgesic, and Narcotic"
+172,172,"Diuretic, Ammonia reducer, Beta blocker, Antibiotics, and Antiviral drug"
+173,173,"Triptan, Calcium channel blocker, Steroid, and Nerve pain medication"
+174,174,"Stenting, Cardiac catheterization, and Angioplasty"
+175,175,Counselling and Support Group
+176,176," diazepam, lorazepam"
+178,178,"Nonsteroidal anti-Inflammatory drug, Antibiotics, Anti-Inflammatory, Immunosuppressive drug, Steroid, Analgesic, and Dietary supplement"
+179,179,"Antibiotics, Penicillin antibiotic, and Dietary supplement"
+180,180,Consult Doctor for chemotherapy
+181,181,"Nonsteroidal anti-Inflammatory drug, Analgesic, Antihistamine, Cough medicine, and Decongestant"
+182,182,Painkillers
+183,183,Fasciotomy
+184,184,Analgesic
+185,185,"Diuretic, Beta blocker, ACE inhibitor, Antihypertensive drug, Dietary supplement, Blood pressure support, Vasodilator, and Heart Medication"
+186,186,Antibiotics and Steroid
+187,187,Laxatives
+188,188,"Steroid, Antibiotics, Topical antiseptic, Antihistamine, Anaesthetic, and Antifungal"
+189,189,Self Care
+190,190,Heals on its own in 14 to 28 days
+191,191,epinephrine combined with an anesthetic
+192,192,Antibiotic Ointment
+193,193,Remove object with a cotton cloth
+194,194,Consult Doctor
+195,195,"Analgesic, Nonsteroidal anti-Inflammatory drug, and Steroid"
+196,196,Counselling and Support Group
+197,197,"Nonsteroidal anti-Inflammatory drug, Anti-Inflammatory, Steroid, Immunosuppressive drug, Vitamin, and Antibiotics"
+198,198,Anti-parasitic drugs
+199,199,Removal of steroid producing tumor and Transsphenoidal surgery
+200,200,Anthelmintics
+201,201,Kegel exercise and Physical Therapy
+202,202,Pyrimethamine
+203,203,Nonsteroidal anti-Inflammatory drug and Steroid
+204,204,Blood Thinners
+205,205,Drink a rehydration drink
+206,206,Sedative and Vitamin
+207,207,Cognition-enhancing medication
+208,208,Analgesic
+209,209,"Antibiotics, Penicillin antibiotic, Nonsteroidal anti-Inflammatory drug, and Analgesic"
+210,210,No treatment or medication
+211,211,Visit a dentist
+212,212,"Selective Serotonin Reuptake Inhibitor (SSRI), Antidepressant, and Anxiolytic"
+213,213,"Controlling blood sugar through diet, oral medication or insulin"
+214,214,"Anti-Diabetic medication, Blood Thinners, Statin, and Insulin"
+215,215,Insulin and Dietary supplement
+216,216,Symptoms improve over time
+217,217,Emergency Medical assistance
+218,218,Antibiotics and Penicillin antibiotic
+219,219,Consult Doctor
+220,220,"Procedural sedation and analgesia, Reduction, and Traction"
+221,221,beta blocker
+222,222,Blood transfusion
+223,223,Counselling
+224,224,Consult Doctor
+225,225,Counselling and Support Group
+226,226,Seek medical assistance immediately
+227,227,Consult Doctor
+228,228,heals on its own
+229,229,"Analgesic, Nonsteroidal anti-Inflammatory drug, Topical antiseptic, Antibiotics, and Dietary supplement"
+230,230,high-dose estrogen therapy
+231,231,Drink a lot of water
+232,232,Expedient wound care and closure
+233,233,Apply a warm cloth or warm water bottle to the affected ear
+234,234,Dietary supplement
+235,235,Counselling
+236,236,Laparoscopic surgery
+237,237,antivenoms
+238,238,Thoracastomy
+239,239,Antiviral drug and Anticonvulsant
+240,240,Consult Doctor for chemotherapy
+241,241,Laparoscopic surgery and Electrosurgery
+242,242,"ampicillin, gentamicin, and metronidazole"
+244,244,Consult Doctor
+245,245,"metronidazole, tinidazole, nitazoxanide, dehydroemetine or chloroquine"
+246,246,Emergency Medical assistance to raise body temperature
+247,247,Emergency Medical assistance to lower body temperature
+248,248,antibiotics and drainage
+249,249,Antibiotics
+250,250,Antibiotic treatment
+251,251,Craniotomy
+252,252,Antibiotics and Penicillin antibiotic
+253,253,Consult Doctor
+255,255,Oral Antibiotics 
+256,256,"Calcium channel blocker, Heart Medication, and Vasodilator"
+257,257,chemotherapy
+258,258,Consult Doctor
+259,259,Consult Doctor
+260,260,Tube Thoracostamy
+261,261,nitrates or calcium channel blockers to relax the muscles in the esophagus.
+262,262,heals on its own
+263,263,"Beta blocker, Synthetic hormones, Antibiotics, and Blood transfusion"
+264,264,Esophageal dilation
+265,265,"Antifungal, Proton-Pump inhibitor, Antacid, and Steroid"
+266,266,"calcium channel blockers,"
+267,267,exercise
+268,268,Counselling
+269,269,consult doctor
+270,270,Removal of foreign body
+271,271,Surgical repair of lid lacerations
+272,272,Rest
+273,273,consult doctor
+274,274,consult doctor
+275,275,Apply something cold to reduce puffiness
+276,276,Stretching
+277,277,Consult Doctor
+278,278,"advised to avoid exposure to cold temperatures. Bed rest, warmth and corticosteroids can be used to treat an acute attack"
+279,279,High flow oxygen and Mechanical ventilation
+280,280,Oral diazepam can reduce the risk of subsequent febrile seizures
+281,281,rectally diazepam
+282,282,Laxative
+283,283,Anti diarrheal drugs like loperamide and diphenoxylate and atropine sulfate
+284,284,Consult Doctor
+285,285,Laparoscopic surgery
+286,286,Psychoactive drugs
+287,287,"paracetamol, acetaminophen, ibuprofen"
+288,288,Consult a doctor for diagnosis of the cause
+289,289,Nonsteroidal anti-Inflammatory drug and Analgesic
+290,290,"Birth control, Hormone, and Sex hormone suppression"
+291,291,"Selective Serotonin Reuptake Inhibitor (SSRI), Analgesic, Nonsteroidal anti-Inflammatory drug, Nerve pain medication, and Muscle Relaxant"
+292,292,Anti-Parasite and Antibiotics
+293,293,Heals on its own
+294,294,"Treatment consists of incision and drainage, warm-water soaks and, sometimes, oral antibiotics"
+295,295,"rest, ice, compression, and elevation"
+296,296,heals on its own
+297,297,"rest, ice, compression, and elevation"
+298,298,"Remove the foreign body using irrigation, a sterile needle, or a foreign body removal instrument"
+300,300,"Pull out the lower eyelid or press down on the skin below the eyelid to see underneath it. If the object is visible, try tapping it with a damp cotton swab."
+301,301,Consult Doctor
+302,302,Surgery to connect broken bones (Internal fixation) and Surgery to stabilise broken bones (External fixation)
+303,303,Cognitive behavioral therapy
+304,304,Antifungal
+305,305,Antibiotics
+306,306,"Antibiotics, Proton-Pump inhibitor, Penicillin antibiotic, Diarrhoea Medication, and Antacid"
+307,307,"Antacid, Proton-Pump inhibitor, Penicillin antibiotic, Antibiotics, and Diarrhoea Medication"
+308,308,Antibiotics and Dietary supplement
+309,309,"Antacid, Proton-Pump inhibitor, and Diarrhoea Medication"
+310,310,Consult Doctor Immediately
+311,311,Emergency surgery to repair the hole
+313,313,Antiviral drug
+314,314,Topical anti-tumor medication
+315,315,Anti-Diabetic medication and Insulin
+316,316,Nifedipine
+317,317,Anti-Parasite and Antibiotics
+318,318,Topical antiseptic
+319,319,Glaucoma medication and Beta blocker
+320,320,Radioactive iodine therapy
+321,321,"Analgesic, Uric acid reducer, Nonsteroidal anti-Inflammatory drug, Anti-Inflammatory, and Steroid"
+322,322,Blood transfusion
+323,323,Analgesic and Nonsteroidal anti-Inflammatory drug
+324,324,Stretching
+325,325,heals on its own
+326,326,"rest, ice, compression, and elevation"
+327,327,Analgesic and Nonsteroidal anti-Inflammatory drug
+328,328,No treatment or medication
+329,329,Diuretic
+330,330,Diuretic
+331,331,"Aspirin, Ibuprofen, acetaminophen"
+332,332,Cochlear implant and Hearing aid
+333,333,"Antiarrhythmic agent, Calcium channel blocker, Beta blocker, and Dietary supplement"
+334,334,Heals on its own
+335,335,Move to a cooler environment
+336,336,"Menthol, Ice pack, and Lanolin"
+337,337,cooling body to a normal temperature
+338,338,Anti Inflammatory
+339,339,"rest, ice, compression, and elevation"
+340,340,Clotting promoter
+341,341,Consult Doctor
+342,342,Emergency Consult Doctor
+343,343,"Steroid, Anaesthetic, and Dietary supplement"
+344,344,After bleeding stops apply antibiotic ointment
+345,345,"Steroid, Immunosuppressive drug, and Blood transfusion"
+346,346,Consult Doctor
+347,347,lamivudine and adefovir dipivoxil
+348,348,Consult Doctor
+349,349,Laparoscopic surgery and Hernia repair
+350,350,Nonsteroidal anti-Inflammatory drug
+351,351,Antiviral drug
+352,352,Avoid hot beverages and use pain relievers
+353,353,Consult Doctor
+354,354,Proton-Pump inhibitor and Antacid
+356,356,"Hip replacement, Surgery to connect broken bones (Internal fixation), and Arthroplasty"
+357,357,Bowel resection
+358,358,Warm compress
+360,360,immobilization followed by early motion
+361,361,Monitoring for changes or improvement
+362,362,Dietary supplement and Antihistamine
+363,363,"Calcium, Insulin administered with glucos"
+364,364,"ACE inhibitor, Diuretic, Beta blocker, Antihypertensive drug, Calcium channel blocker, and Vasodilator"
+365,365,"Labetalol, Nicardipine, Esmolol"
+367,367,Antithyroid agent and Beta blocker
+368,368,Beta blocker and Antihypertensive drug
+369,369,Slow your breathing
+370,370,Steroid eye drops
+371,371,"Dietary supplement, Vitamin, and Antacid"
+372,372,hormone
+373,373,Discontinue medication that increase blood potassium levels
+374,374,Dichlorphenamide
+375,375,Diuretic
+376,376,Use more salt and drink more water
+377,377,Hormone
+378,378,Give additional oxygen to blood
+379,379,Consult Doctor Immediately
+380,380,Consult Physiatrists
+381,381,Tooth extraction
+382,382,Analgesic
+383,383,Antibiotic
+384,384,Nonsteroidal anti-Inflammatory drug and Analgesic
+385,385,"Nonsteroidal anti-Inflammatory drug, Anti-Inflammatory, Steroid, Immunosuppressive drug, Vitamin, and Antibiotics"
+386,386,anti-inflammatory drug
+387,387,"Decongestant, Cough medicine, Nonsteroidal anti-Inflammatory drug, Analgesic, and Antiviral drug"
+388,388,T-Hernia Reapir Surgery
+389,389,T-Drug Rehabilitation
+391,391,T-take a good source of fast-acting carbohydrate immediately
+392,392,Consult your doctor
+393,393,T-Sugery for placing a stent in the artery
+394,394,T- sigmoidoscopy or with a barium enema
+395,395,T-NeuroSurgery
+396,396,M- Ursodeoxycholic Acid
+397,397,Consult your doctor
+398,398,T-Drug Rehabilitation
+399,399,T- a barium or water-soluble contrast enema or an air-contrast enema
+400,400,Consult your doctor
+401,401,M-Ioperamide
+402,402,T-Light Therapy
+403,403,Consult your doctor
+404,404,M-Intravenous immunoglobulin (IVIG)
+405,405,"M- levofloxacin, gatifloxacin, moxifloxacin, ofloxacin"
+406,406,"T-Surgery (radical nephrectomy, simple nephrectomy, or partial nephrectomy)"
+407,407,M-Anitseptic Cream and Proper Cleansing
+408,408,T-Ice treatment ans rest
+409,409,Consult your doctor
+410,410,M-Anitseptic Cream and Proper Cleansing
+411,411,T-Consult surgical expert
+412,412,Consult your doctor
+413,413,T-Decadron
+414,414,"T-RICE (Rest, Ice, Compression, Elevation)"
+415,415,Consult your doctor
+416,416,M- ‎Dimercaprol
+417,417,M- ‎Dimercaprol
+418,418,M-Anitseptic Cream and Proper Cleansing
+419,419,Consult your doctor
+420,420,Consult your doctor
+421,421,M-azithromycin
+422,422,M-Liposomal amphotericin B and paromomycin 
+423,423,"M-antibiotics, such as doxycycline or penicillin"
+424,424,Consult your doctor
+425,425,M- corticosteroids
+426,426,T-Consult surgical expert
+427,427,T-Consult surgical expert
+428,428,T-Consult surgical expert
+429,429,M-Anitseptic Cream and Proper Cleansing
+430,430,T-Hot Cold Treatment
+431,431,T-histopathology 
+432,432,M-parenteral (intravenous) antibiotics followed by oral antibiotics
+433,433,T-Chemotherapy
+434,434,M-Orvaten
+436,436,M- aspirin and ibuprofen
+437,437,T-Consult surgical expert
+439,439,T-chest physiotherapy treatments (CPT)
+440,440,Consult your doctor
+441,441,M-anti-inflammatory medications 
+442,442,"M-Doxycycline, ‎amoxicillin‎, ‎cefuroxime"
+443,443,M- acetaminophen (Tylenol) or ibuprofen (Advil)
+444,444,Consult your doctor
+445,445,T-Therapy
+446,446,"T-Replacement of nutrients, electrolytes and fluid may be necessary."
+447,447,M-chloroquine. atovaquone-proguanil (Malarone
+448,448,"M-Dantrolene,"
+449,449,"T-Splinting for 8 weeks, surgery "
+450,450,heal within 7 to 10 days without treatment
+451,451,T-Diet planning
+452,452,T-Therapy
+453,453,Consult your doctor
+454,454,Consult your doctor
+455,455,M-Antibiotioc Azithromycin
+456,456,"T-surgical, potentially with a laparoscopic resection"
+458,458,M-Anitibiotics
+461,461,T-Vestibular rehabilitation
+462,462,M-acute meningitis consists of promptly giving antibiotics 
+463,463,T-Surgery 
+464,464,No Treatment
+465,465,T-Therapy
+466,466,Consult your doctor
+467,467,T-Therapy
+468,468,T-Therapy
+469,469,M-Triptans
+470,470,Consult your doctor
+471,471,Consult your doctor
+472,472,T-Nonsteroidal anti-Inflammatory drug and Analgesic
+473,473,T-evacuation of pregnancy
+474,474,"T-Drinking enough fluids, getting sufficient rest"
+475,475,M-anti-inflammatory medications 
+476,476,T-Excersie
+477,477,"T-Medication and therapy can slow ALS and reduce discomfort, but there's no cure."
+478,478,Consult your doctor
+479,479,T-Hot Cold Treatment
+480,480,Consult your doctor
+481,481,M- paromomycin 
+482,482,Consult your doctor
+483,483,"T-Chemotherapy, Anti-Inflammatory, Immunosuppressive drug"
+484,484,T-Consult surgical expert
+485,485,T-Good Education
+486,486,T-Good Education
+488,488,"T- surgical removal of the thymus, plasmapheresis"
+490,490,M-azithromycin and protection
+491,491,T-Myelodysplastic syndromebone marrow failure
+492,492,"T-Blood Thinners, Heart Medication, Narcotic, Beta blocker, Statin, and ACE inhibitor"
+493,493,"T-implantable cardiac defibrillator, heart transplant"
+494,494,"T- Drug therapy, physical therapy, bracing for support, surgery, and massage "
+495,495,M-Prednisone
+496,496,M-over-the-counter pain relievers and antibiotics
+497,497,M-prophylactic use of antibiotics
+498,498,T-doesn’t need treatment
+499,499,Consult your doctor
+500,500,M-anti-inflammatory medications 
+501,501,T-Counselling and Support Group Thearpy
+502,502,T-Drug Rehabilitation
+503,503,T-Drug Rehabilitation
+504,504,T-Surgery and Radiation Therapy
+505,505,T-Surgery 
+506,506,"M-Flonase, Veramyst"
+507,507,T-cauterization or packing
+508,508,T-Radiation Therapy and Chemotherapy
+509,509,T-Heat therapy and NSAIDS
+510,510,M-Prnciliin Antibiotics or Amputation Surgery
+511,511,M-ceftriaxone
+512,512,Consult your doctor
+513,513,T-Radiation Therapy or Surgery
+514,514,T-Catheterization
+515,515,Consult your doctor
+516,516,No Treatment
+517,517,M-antidiarrheal medications and electrolyte
+519,519,T-Reduction (forearm into a palms down position with straitening at the elbow)
+520,520,"T-Therapies,Support group, Cognitive behavioral therapy, Aversion therapy, "
+522,522,T-Consult Psychiatry Help
+523,523,Consult your doctor
+524,524,"T-intravenous (IV) steroids, oral steroids or placebo"
+525,525,"M-Antifungal, Topical antiseptic, and Dietary supplement"
+526,526,"M-Anaesthetic, Steroid, and Anti-Inflammatory"
+527,527,M-antibiotics
+528,528,T-Surgery 
+529,529,T-Surhery
+530,530,M-Antibiotics
+531,531,"T-Chemoterapy,Radiation Therapy"
+532,532,T-Surgery 
+533,533,T-arthroscopic drilling of intact lesions
+534,534,T-Surgery 
+535,535,Consult your doctor
+536,536,Consult your doctor
+537,537,M-Antibiotics
+538,538,"T-surgery, chemotherapy, radiation therapy"
+539,539,T-Laparoscopy
+540,540,T-Lapratomy
+541,541,"T-Therapies,Support group, Cognitive behavioral therapy, Aversion therapy, "
+542,542,"T-Therapies,Support group, Cognitive behavioral therapy, Aversion therapy, "
+543,543,T- lumpectomy or mastectomy
+544,544,T-Surgery 
+545,545,T-Chemothaerapy and Surgery 
+546,546,M- IV fluids and pain medications 
+547,547,"T- medication, endoscopic therapies, or surgery."
+548,548,"T-Therapies,Support group, Cognitive behavioral therapy, Aversion therapy, "
+549,549,Consult your doctor
+550,550,Consult your doctor
+551,551,"M-Dopamine promoter, Antidepressant, Cognition-enhancing medication, and Anti-Tremor"
+552,552,Consult your doctor
+553,553,T- radiation and chemotherapy.
+554,554,T-Physical Theraphy
+555,555,T-Surgery 
+556,556,T-Drug Rehabilitation
+557,557,M-Antiobiotic
+558,558,T-Topical anti-tumor medication and Chemotherapy
+560,560,No Treatment
+561,561,T-Surgery 
+562,562,Consult your doctor
+563,563,M- amoxicillin and dicloxacillin
+564,564,T-Surgery 
+565,565,M-carbamazepine
+566,566,Consult your doctor
+567,567,T-Antibiotics
+568,568,T-Acute tonsillectomy 
+569,569,Therapy
+570,570,M-carbamates to protect AChE from inhibition by OP compounds
+571,571,T- surgery to resect the diverticulum and incise the cricopharyngeus muscle
+572,572,"M-Penicillin antibiotic, Nonsteroidal anti-Inflammatory drug"
+573,573,M-Beta blocker and Antihypertensive drug
+574,574,"T-Therapies,Support group, Cognitive behavioral therapy, Aversion therapy, "
+575,575,T-dieting
+576,576,T-Transsphenoidal surgery
+577,577,M-Lubricants
+578,578,Consult your doctor
+579,579,T-blood transfusion or emergency hysterectomy
+580,580,M-Antibiotics such as streptomycin
+581,581,"T- ‎Salicylic acid‎, ‎cryotherapy‎, surgical"
+582,582,T-Surgery 
+583,583,Consult your doctor
+584,584,T-Surgery 
+585,585,M-Antibiotics and Penicillin antibiotic
+586,586,T-Oxygen therapy and Monitoring for changes or improvement
+587,587,"T-Clear the airway and let breathe, call emergency"
+588,588,Consult your doctor
+589,589,M-ACE inhibitor
+590,590,"M-Clomiphene (Clomid),Letrozole (Femara)"
+591,591,M- hydroxyurea (Hydrea)
+592,592,Consult your doctor
+593,593,Consult your doctor
+594,594,M-loratadine-pseudoephedrine (Claritin)
+595,595,"T-Cognitive behavioral therapy, Eye movement desensitization"
+596,596,Consult your doctor
+597,597,M-Droxidopa (Northera)
+599,599,Consult your doctor
+600,600,Consult your doctor
+601,601,Therapy
+602,602,T-Ice Pack
+603,603,T-Ischemic: Removal of blood
+604,604,Therapy
+605,605,Consult your doctor
+606,606,Consult your doctor
+607,607,"T-‎Heating pad, medication"
+608,608,"M-Nitrates,Statin"
+609,609,T-Radiation Therapy and Chemotherapy
+611,611,Consult your doctor
+612,612,M-Steroids
+613,613,M-nonsteroidal anti-inflammatory drugs or corticosteroids
+614,614,"T-Counselling, medications"
+615,615,"T-Counselling, medications"
+616,616,"T-Reducers,Morphine and Heart Medications"
+617,617,M-Blood Thinners
+618,618,M-pirfenidone (Esbriet) and nintedanib (Ofev)
+619,619,"M-epoprostenol (Flolan, Veletri)"
+620,620,Consult your doctor
+621,621,"T-Clean the wound,Apply an antibiotic,Apply an antibiotic"
+622,622,"T-Clean the wound,Apply an antibiotic,Apply an antibiotic"
+623,623,"T-Clean the wound,Apply an antibiotic,Apply an antibiotic"
+624,624,"T-Clean the wound,Apply an antibiotic,Apply an antibiotic"
+625,625,"T-Clean the wound,Apply an antibiotic,Apply an antibiotic"
+626,626,"T-Clean the wound,Apply an antibiotic,Apply an antibiotic"
+627,627,"T-Clean the wound,Apply an antibiotic,Apply an antibiotic"
+628,628,"T-Clean the wound,Apply an antibiotic,Apply an antibiotic"
+629,629,"T-Clean the wound,Apply an antibiotic,Apply an antibiotic"
+630,630,"T-Clean the wound,Apply an antibiotic,Apply an antibiotic"
+631,631,"T-Clean the wound,Apply an antibiotic,Apply an antibiotic"
+632,632,"T-Clean the wound,Apply an antibiotic,Apply an antibiotic"
+633,633,"T-Clean the wound,Apply an antibiotic,Apply an antibiotic"
+634,634,"T-Clean the wound,Apply an antibiotic,Apply an antibiotic"
+635,635,"T-Clean the wound,Apply an antibiotic,Apply an antibiotic"
+636,636,"T-Clean the wound,Apply an antibiotic,Apply an antibiotic"
+637,637,T-Treatment includes antibiotics and often requires hospitalisation
+638,638,M- Antibiotics
+639,639,Consult your doctor
+640,640,"T-Antidote, hemodialysis"
+641,641,"T-sedation, drainage of cerebrospinal fluid, and osmotherapy"
+642,642,Consult your doctor
+643,643,M-Antibiotics
+644,644,"T-Surgery,Lymph node dissection and Colectomy"
+645,645,M- 5-aminosalicyclic acid (5ASA) or corticosteroids
+646,646,Consult your doctor
+647,647,"T-Behavior therapy,maybe Surgery"
+648,648,Consult your doctor
+649,649,"M- tetracycline. Analgesics, particularly NSAIDs"
+650,650,Surgery
+651,651,"T- angioplasty, often with stenting or surgery"
+652,652,M-Calcium and insulin or dialysis
+653,653,"T-Medications to manage blood pressure, blood sugar, and lower cholesterol, renal replacement therapy, kidney transplant"
+654,654,"T-Anticoagulation,Percutaneous endovascular therapy"
+655,655,Consult your doctor
+656,656,T-Treatment of the underlying disorder
+657,657,T- Endotracheal intubation and mechanical ventilation 
+658,658,T-Self Help
+659,659,Consult your doctor
+660,660,M-ceftriaxone or clindamycin
+661,661,"M-Intravenous fluids, dialysis, hemofiltration"
+662,662,"M-Medication Pain medications, steroids, Nonsteroidal anti-inflammatory drugs"
+663,663,T-Surgical excision
+664,664,Consult your doctor
+665,665,M-Nonsteroidal anti-Inflammatory drug and Analgesic
+666,666,M- antibiotics doxycycline
+667,667,"T-Physical Theraphy,Steroid, Surgery"
+668,668,T-increased fluid intake (oral rehydration) to prevent dehydration
+669,669,"T-Therapies,Support group, Cognitive behavioral therapy, Aversion therapy, "
+670,670,"T-Antibiotics,Fluids and Antimotility drugs"
+671,671,Consult your doctor
+672,672,T-Antibiotics
+673,673,Consult your doctor
+674,674,M- penicillin.
+675,675,M-Praziquante
+676,676,"T-Psychotherapy, Psychoeducation, and Family therapy"
+677,677,"T-Psychotherapy, Psychoeducation, and Family therapy"
+678,678,Consult a NeuroSurgeon
+679,679,M- ursodeoxycholic acid (UDCA)
+680,680,Consult your doctor
+681,681,M-Nonsteroidal anti-Inflammatory drug
+682,682,T-Radical inguinal orchiectomy or Chemotherapy
+683,683,"T-Therapies,Support group, Cognitive behavioral therapy, Aversion therapy, "
+684,684,T-Home Care
+685,685,"T- ‎Heating pad, medication"
+686,686,T-Antibiotics
+687,687,Consult your doctor
+688,688,Consult your doctor
+689,689,"M-Vancomycin, ceftriaxone, ceftazidime["
+690,690,M-Intravenous (IV) antibiotics
+691,691,M-Intravenous (IV) antibiotics
+692,692,Consult your doctor
+693,693,"M-Benzodiazepines, cyproheptadine"
+694,694,Consult your doctor
+695,695,Consult your doctor
+696,696,Consult your doctor
+697,697,M-Fluid and salt replacement
+698,698,"M-Antiviral drug, Anaesthetic, Nonsteroidal anti-Inflammatory drug"
+699,699,T-More Salt and Water
+700,700,Consult your doctor
+701,701,"M- hydration, moist heat therapy, NSAIDs "
+702,702,"M-acetaminophen, nonsteroidal anti-inflammatory drugs (NSAIDs)"
+703,703,"M-acetaminophen, nonsteroidal anti-inflammatory drugs (NSAIDs)"
+704,704,"M-Decongestant, Penicillin antibiotic, Antibiotics, Steroid, Cough medicine"
+705,705,"T-Therapies,Support group, Cognitive behavioral therapy, Aversion therapy, "
+706,706,M-cyclosporine (Restasis) or lifitegrast (Xiidra)
+707,707,T-Cutting it open
+708,708,M-anti-inflammatory medications 
+709,709,Consult your doctor
+710,710,M-acetaminophen (Tylenol)
+711,711,Consult your doctor
+712,712,T-Radiation Therapy and Chemotherapy
+714,714,No Treatment
+715,715,Consult your doctor
+716,716,"T-Therapies,Support group, Cognitive behavioral therapy, Aversion therapy, "
+717,717,"T-Therapies,Support group, Cognitive behavioral therapy, Aversion therapy, "
+718,718,"M-acetaminophen (Tylenol, others) or ibuprofen (Advil, Motrin IB, others)"
+719,719,"M-Antihistamine, Nonsteroidal anti-Inflammatory drug, and Analgesic"
+720,720,T-laminectomy
+721,721,Consult a NeuroSurgeon
+722,722,Consult a NeuroSurgeon
+723,723,ibuprofen (Motrin®) or naproxen (Aleve® or Naprosyn®)
+724,724,RICE Thaerapy
+725,725,T-Radiation Therapy and Chemotherapy
+726,726,"T-Therapies,Support group, Cognitive behavioral therapy, Aversion therapy, "
+727,727,"T-Therapies,Support group, Cognitive behavioral therapy, Aversion therapy, "
+728,728,T-Fluid replacement and nutrition and Eye care
+729,729,T-rehabilitation exercises or physical therapy 
+730,730,Consult your doctor
+731,731,M- penicillin and amoxicillin 
+732,732,"T-Therapies,Support group, Cognitive behavioral therapy, Aversion therapy, "
+733,733,"T-Therapies,Support group, Cognitive behavioral therapy, Aversion therapy, "
+734,734,"T-Therapies,Support group, Cognitive behavioral therapy, Aversion therapy, "
+735,735,T-Treatment Neurosurgery or radiologically guided interventions
+736,736,"T-Burr hole trephination,Craniotomy"
+737,737,"T-Therapies,Support group, Cognitive behavioral therapy, Aversion therapy, "
+738,738,Consult your doctor
+739,739,"T-Therapies,Support group, Cognitive behavioral therapy, Aversion therapy, "
+740,740,Surgery
+741,741,M-anti-itch lotion or corticosteroid cream
+742,742,Consult your doctor
+743,743,M-Penicillin antibiotic and Antibiotics
+744,744,T- Supportive care
+745,745,M-Antiarrhythmic drugs
+746,746,T- wash the bite with soap and water
+747,747,Surgery
+748,748,M- aspirin
+749,749,Consult a NeuroSurgeon
+750,750,"M-Non-steroidal anti-inflammatory drugs (NSAIDs), such as ibuprofen (Advil, Motrin IB, others)"
+751,751,"M-Non-steroidal anti-inflammatory drugs (NSAIDs), such as ibuprofen (Advil, Motrin IB, others)"
+752,752,"M-nonsteroidal anti-inflammatory drugs (NSAIDs), such as ibuprofen (Advil),"
+753,753,Surgery
+754,754,"T-Surgery, Inguinal orchiectomy and Retroperitoneal lymph node dissection"
+755,755,Surgery
+756,756,Consult a NeuroSurgeon
+757,757,"T-Physical therapy,Medications"
+758,758,Consult a Doctor
+759,759,T-Sistrunk Procedure
+760,760,M-non-steroidal anti-inflammatory medications
+761,761,Consult a Doctor
+762,762,M- Encepur N and FSME-Immun CC
+763,763,"M-creams, lotions, or shampoos "
+764,764,T-Antibiotics
+765,765,Consult a Doctor
+766,766,T-Radiation Therapy and Chemotherapy
+767,767,T-Radiation Therapy and Chemotherapy
+768,768,"M-Paracetamol (acetaminophen), ibuprofen, penicillin["
+769,769,"M-Anaesthetic, Steroid, and Anti-Inflammatory"
+770,770,Consult a Doctor
+771,771,T-Physical Therapy
+772,772,T-Labor induction and Ceaserian Section
+773,773,T-Surgery 
+774,774,"M-Pyrimethamine (Daraprim),Sulfadiazine"
+775,775,M – Antiplatelet medications(aspirin)
+776,776,"T – Intravenous (IV — into the vein), Plasma exchange (PLEX)"
+777,777,Consult doctor 
+778,778,"T - brachial plexus injury repair, carpal tunnel release, nerve entrapment surgery, nervesheath"
+779,779,T - lumbar puncture or spinal tap
+780,780,"M – Mebendazole, Albendazole"
+781,781,M – Vaginal metronidazole creams and pessaries
+782,782,"M – oxcarbazepine (Trileptal), gabapentin (Neurontin)"
+783,783,"M – Ethambutol, Isoniazid"
+784,784,"T – treatment with antibiotics, and that they may require surgery"
+785,785,Consult doctor 
+786,786,"T - antibiotics, it is important to rehydrate by drinking adequate water"
+788,788,M – Anti-inflammatories (corticosteroids and aminosalicylates)
+789,789,"M – Beta Blockers,oral anti-platelet medicines"
+790,790,"M – Antibiotics, Over-the-counter cough medicine"
+791,791,Consult doctor 
+792,792,"M – Azithromycin, doxycyclin – Consult Doctor "
+793,793,M -  Nitrofurantoin and trimethoprim/sulfamethoxazole 
+794,794,Consult doctor 
+795,795,"T - bladder drainage, surgery (Consult Doctor)"
+796,796,"M – Antibiotics, food(peanuts, eggs, nuts and shellfish)"
+797,797,Consult doctor 
+798,798,Consult doctor 
+799,799,M – Eye drop
+800,800,Go to local places or to your Doctor
+801,801,M - A water-soluble vaginal lubricant
+802,802,Consult doctor 
+803,803,T - The best management of a foreign body is removal
+805,805,"M – Antibiotics, ceftriaxone (Rocephin), erythromycin"
+807,807,T – Varicoceles require no treatment. Cases in which symptoms occur can be repaired surgically.
+808,808,"T – Take pain relievers such as acetaminophen, ibuprofen"
+809,809,Consult doctor 
+810,810,"M – Cortisone-related medications, such as prednisone "
+811,811,M – Fludrocortisone acetate and Consult doctor
+812,812,Consult doctor 
+813,813,Consult doctor 
+814,814,Consult doctor 
+815,815,"T – Quit Smoking, loose weight"
+816,816,T – Prochlorperazine and some antihistamines
+817,817,T - Take tissue from your body to close the fistula
+818,818,"M -  Vestibular neuritis, antiviral medicine such as acyclovir"
+819,819,M – Cephalosporin and a tetracycline
+820,820,Consult doctor 
+821,821,"T - Reatment, and vaccine strategies"
+822,822,M – Antibiotics
+823,823,Consult doctor 
+824,824,Consult doctor 
+825,825,"T – Voice therapy, surgery"
+826,826,"T – Sigmoidoscopy, Cecal volvulus"
+827,827,Consult doctor 
+828,828,T – Treatment of the underlying Waldenström
+829,829,T – Counselling
+830,830,T – Treat or prevent blood clots in veins or arteries
+832,832,M – Immunosuppressants such as rituximab or cyclophosphamide and high dose corticosteroids
+833,833,T - Most people recover from West Nile virus without treatment
+834,834,"T - Analgesic, Nonsteroidal anti-Inflammatory drug, Muscle Relaxant, and Narcotic"
+835,835,Consult doctor 
+836,836,Consult doctor 
+837,837,"M – Diuretics, Diazepam and veterinarian"
+838,838,Consult doctor 
+839,839,"M -  fomepizole, ethanol"
+840,840,M – Antifungal Cream
+841,841,Consult doctor 
+842,842,T - no treatment is necessary(neck surgery for worse case)
+848,848,"M - Epilepsy drugs are prescribed to control seizures, and rarely surgery is necessary if medications are ineffective"
+849,849,"M - Sitz baths, Vitamin C and zinc supplements"
+851,851,Consult doctor 
+852,852,Consult doctor 
+853,853,"T -  primary-care providers, including pediatricians, family practitioners"
+854,854,Consult doctor 
+855,855,M - antiviral drug ribavirin
+856,856,Consult doctor 
+857,857,No Treatment
+858,858,M - Prednisone is the drug of choice for PMR
+859,859,Consult doctor 
+860,860,M – Analgesic and Nonsteroidal anti-Inflammatory drug
+861,861,Consult doctor 
+862,862,Consult doctor 
+863,863,Consult doctor 
+864,864,Consult doctor 
+865,865,T - injuries can recover with time and therapy
+866,866,Consult doctor 
+867,867,"T - quitting smoking, losing weight, eating healthy "
+868,868,Consult doctor 
+869,869,Consult doctor 
+870,870,Consult doctor 
+871,871,Consult doctor (surgery may be)
+872,872,"T - Physical Therapy, Occupational Therapy, Speech Therapy"
+873,873,T - Cerebral aneurysmbrain artery dilation
+874,874,Consult doctor 
+875,875,Consult doctor 
+876,876,"M - aggressive antibiotics, generally given intravenously, usually for 4-6 weeks"
+877,877,M - Treatment can include topical creams or oral medication
+878,878,T - Stimulant medications are the pharmaceutical treatment of choice
+879,879,M – Eye drops
+881,881,"T – Mouth Guard, Changing habit"
+882,882,"T - Prevent contaminated irrigation solution from running onto unaffected skin, Remove contaminated clothes"
+883,883,"M - Use non-aspirin medications, such as acetaminophen, to relieve fever from chickenpox"
+884,884,T - Shampoo 2 Or 3 Times A Week
+885,885,"M – Acetaminophen, ibuprofen (Advil, Motrin) "
+886,886,T - Surgically moving the testicle into the scrotum
+887,887,"T - Speech-language pathologists, Reading specialists"
+888,888,"T - scheduled sitting times, typically after meals"
+889,889,T - involve your health-care professional is variable 
+890,890,Consult doctor 
+891,891,T – Therapies
+892,892,Treatment is urgent and delays can be fatal
+893,893,T - usually treated with an antibiotic ointment such as a nonprescription triple-antibiotic mixture
+894,894,Consult doctor 
+895,895,T - See your doctor if you experience any of the signs and symptoms of hereditary hemochromatosis
+896,896,Consult doctor 
+897,897,Consult doctor 
+898,898,Consult doctor 
+899,899,T -  moisturizing lotions or creams may help your skin look and feel better
+900,900,T - Over-the-counter (OTC) or prescription medications
+901,901,T - improving the personal hygiene of the infested person
+902,902,M - A lice-killing lotion containing 1% permethrin or a mousse containing pyrethrins and piperonyl butoxide
+903,903,"T - Liver biopsy, Genetic testing"
+904,904,Consult doctor 
+905,905,T - Antibiotics treat erysipelas. The exact type will depend on what germ is causing the problem.
+906,906,M - Antibiotic Treatment
+907,907,T - requires 3–6 months of treatment
+908,908,T - Intravenous fluid therapy
+909,909,Consult doctor 
+910,910,T – Counselling
+911,911,T - Strict hygiene measures can remedy pinworm infection
+912,912,Consult doctor 
+913,913,Most of them disappear on their own by the time the child is five years old
+914,914,Consult doctor 
+915,915,"M - Anti-inflammatory medicines, Nasal wash with salt water"
+916,916,T – Doctor will probably prescribe fungi-killing oral medication and medicated shampoo
+917,917,T – Doctor will probably prescribe fungi-killing oral medication
+918,918,Consult doctor 
+919,919,"T - if the skin bleeds, develops cracks, then consult the doctor"
+920,920,T - Options to control itchiness include antihistamines and prescription anti-inflammatory agents
+921,921,"T - Medication, electric shock or procedures that destroy abnormal tissue in the heart may be used to restore a normal heartbeat"
+922,922,M - Bismuth subsalicylate is also used to prevent traveler's diarrhea
+923,923,Consult doctor 
+924,924,Consult doctor 
+925,925,T - Early treatment with medication like tPA (clot buster) can minimise brain damage
+926,926,T – No treatment or eye drop 
+927,927,"T – Counselling, changing habit"
+929,929,M - Mexiletine
+930,930,"T – Avoid squeezing or irritating a carbuncle, which increases the risk of complications and severe scarring"
+931,931,Consult doctor 
+932,932,"T – For anything more than a superficial scratch, treatment includes applying pressure to stop the bleeding, cleaning the wound and seeking medical attention"
+933,933,"T – For anything more than a superficial scratch, treatment includes applying pressure to stop the bleeding, cleaning the wound and seeking medical attention"
+934,934,T - Massage can relieve cramping pain. Stretches and hydration during exercise or work can prevent a Charley horse
+935,935,"T - vigorously rehydrate the patient while maintaining electrolyte homeostasis, correct hyperglycemia"
+936,936,T - Most birthmarks need no treatment
+937,937,T - Treatment focuses on managing complications
+938,938,Consult doctor 
+939,939,Consult doctor 
+940,940,"T - Most common warts go away without treatment, though it may take a year or two and new ones may develop nearby"
+941,941,T - Rates of recurrence are variously reported
+942,942,M – Antifungal Cream
+943,943,"T - Newer Osteoporosis Medications, Diet"
+944,944,"T - Some antiviral drugs, if taken within two days of symptoms, may help"
+945,945,M – Antifungal Cream
+946,946,T - Avoid activities that require you to keep your arm bent for long periods of time
+947,947,Consult doctor 
+948,948,Consult doctor 
+949,949,M – Antifungal Cream
+950,950,"Tick bite are often harmless, clean the bite site with soap and water"
+951,951,T - commonly treated by an infectious-disease specialist
+952,952,Consult doctor 
+953,953,"M - Treatment is with penicillin, ampicillin, tetracycline, or co-trimoxazole for one to two years"
+954,954,"T - Cardiopulmonary resuscitation (CPR) is necessary for near drowning, as complications can be fatal"
+955,955,"M - Treatment includes antibiotics. Even when treated with antibiotics, the infection may come back"
+956,956,"T - get out of the water, remove your bathing suit and shower immediately"
+957,957,Consult doctor 
+958,958,Consult doctor 
+960,960,M - Treatment includes pain relievers and creams to relieve itching
+961,961,M - Take ibuprofen or acetaminophen to relieve pain
+962,962,Consult doctor 
+963,963,T - Reduce sporting activities as needed based on pain
+964,964,Consult doctor 
+965,965,T - Regular doctor visits can help you
+966,966,"T - There are a range of treatments for AA, but none are effective for everyone "
+967,967,T - A single dose of an oral antifungal drug or application of an antifungal cream for one to three days cures mild infections
+968,968,T - Regular doctor visits can help you
+969,969,"M - cholinesterase inhibitors (Aricept, Exelon, Razadyne) and memantine (Namenda)"
+971,971,T - Treatment focuses on removing the warts
+972,972,T - Patients suffering from erectile dysfunction should first be evaluated for any underlying physical and psychological conditions
+973,973,Consult doctor 
+974,974,"T - treatment methods can include medications, physical therapy, and steroid injections"
+975,975,Consult doctor 
+977,977,"T - Common moles do not need to be removed. However, some people choose to have them removed for cosmetic reasons"
+978,978,Consult doctor 
+979,979,Consult doctor 
+980,980,Consult doctor 
+981,981,Consult doctor 
+982,982,T -  hospital emergency
+983,983,T - go to a protected environment and get warm fluids
+984,984,"T - avoid wearing dirty socks to bed, take off your socks, dry your feet thoroughly"
+985,985,Consult doctor 
+986,986,"T - Treatment for gangrene involves removing the dead tissue, treating and preventing the spread of infection"
+987,987,Most food poisoning is mild and resolves without treatment
+988,988,"Treatment can help, but this condition can't be cured"
+989,989,Consult doctor 
+990,990,Consult doctor 
+991,991,Do not require any specific treatment
+992,992,T - Treatable by a medical professional
+993,993,Consult doctor 
+994,994,"Treatment can help, but this condition can't be cured"
+995,995,"Treatment can help, but this condition can't be cured"
+997,997,"T - There is no cure for sarcoidosis, but the disease may get better on its own over time"
+998,998,Sudden unexplained death of a child less than one year of age
+999,999,T - Usually self-treatable
+1000,1000,M – Antibiotics alone can be inadequate in treating abscesses
+1001,1001,T – Most important action is to ensure a free airway
+1002,1002,M - Antibiotics may be prescribed in some cases
+1003,1003,Consult doctor 
+1004,1004,Consult doctor 
+1006,1006,T - Flu is primarily treated with rest and fluid intake to allow the body to fight the infection on its own
+1007,1007,Consult doctor 
+1008,1008,Consult doctor 
+1009,1009,Consult doctor 
+1010,1010,"Treatment can help, but this condition can't be cured"
+1011,1011,"Pick a Sunday to take your first pill, so that you do not have periods on the weekends, further go through the internet"
+1012,1012,Consult doctor 
+1013,1013,Consult doctor 
+1014,1014,Consult doctor 
+1015,1015,Consult doctor 
+1016,1016,Consult doctor 
+1017,1017,Consult doctor 
+1018,1018,Consult doctor 
+1019,1019,Consult doctor 
+1020,1020,Consult doctor 
+1021,1021,Consult doctor 
+1022,1022,Treatable by a medical professional
+1023,1023,Treatable by a medical professional
+1024,1024,"Treatment can help, but this condition can't be cured"
+1025,1025,"Very Common, Treatable by a medical professional"
+1026,1026,"T - Symptomatic treatment can be given by blood transfusion, if there is marked anemia"
+1027,1027,Treatable by a medical professional
+1028,1028,Treatable by a medical professional
+1029,1029,Treatable by a medical professional
+1030,1030,"Treatment can help, but this condition can't be cured, Requires a medical diagnosis"
+1031,1031,T – Acute adrenal insufficiency is a medical emergency and needs to be treated with injectable hydrocortisone and fluid support
+1032,1032,Requires a medical diagnosis
+1033,1033,"Treatment can help, but this condition can't be cured, Requires a medical diagnosis"
+1034,1034,"Treatments vary and can include antihistamines, steroids and avoiding allergens"
+1035,1035,Treatable by a medical professional
+1036,1036,"Typically, no treatment is required for bedbug bites, If itching is severe topical steroid creams or oral antihistamines may be used for symptom relief"
+1037,1037,"Spreads easily, Treatable by a medical professional, Usually self-diagnosable"
+1038,1038,"Treatment can help, but this condition can't be cured, Requires a medical diagnosis"
+1039,1039,"Treatable by a medical professional, Requires a medical diagnosis"
+1040,1040,T - Treatment is usually delayed until the patient is ready to start sexual activity.
+1041,1041,"Usually self-treatable, Usually self-diagnosable"
+1042,1042,Treatable by a medical professional
+1043,1043,Treatment depends entirely on the type of hyperparathyroidism encountered
+1044,1044,"Treatment can help, but this condition can't be cured, Usually self-diagnosable"
+1045,1045,"Usually self-treatable, Usually self-diagnosable"
+1046,1046,"Treatment can help, but this condition can't be cured, Requires a medical diagnosis"
+1047,1047,M - DermNet NZ
+1049,1049,Treatable by a medical professional
+1050,1050,Treatable by a medical professional
+1051,1051,T - can be treated with supplemental oxygen and methylene blue
+1052,1052,"T - aspirin is indicated, and a carotid endarterectomy considered based on the location and grade of the stenosis"
+1053,1053,Treatable by a medical professional (Surgical Therapy)
+1054,1054,Treatable by a medical professional
+1055,1055,"T - Antibiotics are used to treat most wound infections. Sometimes, you also may need surgery to treat the infection."
+1056,1056,Treatable by a medical professional(Vascular Surgery)
+1057,1057,"Treatment can help, but this condition can't be curedRequires a medical diagnosis"
+1058,1058,"T - Treatable by a medical professional, Requires a medical diagnosis"
+1059,1059,A ruptured spleen is a medical emergency
+1060,1060,"T – In severe liver injuries (class ≥III), or those with hemodynamic instability, surgical correction is generally necessary"
+1061,1061,"M - DTPA (Diethylenetriamine pentaacetate), Filgrastim (Neupogen), Potassium Iodide (KI)"
+1062,1062,"Treatment can help, but this condition can't be cured, Requires a medical diagnosis"
+1063,1063,"Treatable by a medical professional, Requires a medical diagnosis"
+1064,1064,T -  Rubbing a finger gently along the gums in search for swollen ridges or the feel of a tooth below the gums is one way to be certain. If unsure
+1065,1065,"Treatable by a medical professional, Spreads by animals or insects, Requires a medical diagnosis"
+1066,1066,T - surgical removal of all or part of the colon
+1067,1067,Consult doctor 
+1068,1068,Treatable by a medical professional
+1069,1069,"T - In immunocompromised patients, prophylaxis with co-trimoxazole, atovaquone, or regular pentamidine inhalations may help prevent PCP"
+1070,1070,"T - to sit while urinating, to sit on the edge of the bed for a while before getting up and going to the toilet, to urinate before sleep"
+1071,1071,Consult doctor 
+1072,1072,T - Epiploic appendagitis is self-limiting and can be managed conservatively with NSAIDs
+1073,1073,Consult doctor 
+1074,1074,"Treatable by a medical professional, Spreads by animals or insects"
+1075,1075,"T - The best treatment is to avoid the provoking allergen, as chronic exposure can cause permanent damage"
+1076,1076,Treatable by a medical professional
+1077,1077,Treatable by a medical professional
+1078,1078,"T – Fleabites will go away without treatment. However, in order to stop being bitten you have to stop the fleas."
+1079,1079,"Treatable by a medical professional, Usually self-diagnosable"
+1080,1080,"Treatment can help, but this condition can't be cured, Requires a medical diagnosis"
+1081,1081,Requires a medical diagnosis
+1082,1082,"T - plasmapheresis, a procedure in which the affected person's blood is sent through a centrifuge and the various components separated based on weight"
+1083,1083,Consult doctor 
+1084,1084,"Usually self-treatable, Usually self-diagnosable"
+1090,1090,"Treatable by a medical professional, Requires a medical diagnosis"
+1091,1091,"Treatable by a medical professional, Requires a medical diagnosis"
+1092,1092,"T – If infection occurs or is suspected, treatment is generally with the antibiotics streptomycin or gentamicin"
+1093,1093,"Treatable by a medical professional, Requires a medical diagnosis"
+1094,1094,Consult doctor 
+1095,1095,T - The vaccine is approved by the Food and Drug Administration
+1096,1096,"Treatment can help, but this condition can't be cured, Requires a medical diagnosis"
+1097,1097,Usually self-diagnosable
+1098,1098,T - More than 90 percent of people get better with nonsurgical treatments
+1099,1099,"T - Treatment can be challenging, and there's no cure for Lewy body dementia"
+1100,1100,T - Primary neuropathy of facial nerve at the time of injury. Interpositional graft by using sural or greater auricular nerve grafts.
+1102,1102,"Treatable by a medical professional, Requires a medical diagnosis"
+1103,1103,Consult doctor 
+1106,1106,M - Synovitis symptoms can be treated with anti-inflammatory drugs such as NSAIDs
+1108,1108,"Treatable by a medical professional, Requires a medical diagnosis"
+1111,1111,"Treatable by a medical professional, Requires a medical diagnosis"
+1112,1112,"Treatable by a medical professional, Requires a medical diagnosis"
+1113,1113,"T - If not treated, pemphigus can be fatal, usually from overwhelming opportunistic infection of lesions."
+1114,1114,"Treatable by a medical professional, Requires a medical diagnosis"
+1115,1115,"Treatable by a medical professional, Requires a medical diagnosis"
+1116,1116,T - An otherwise healthy person who is not pregnant typically does not need treatment
+1118,1118,T - They often heal on their own
+1119,1119,Consult doctor 
+1121,1121,Consult doctor 
+1124,1124,"T - There are no permanent cures for urticaria pigmentosa. However, treatments are possible."
+1125,1125,"T - reatment for jellyfish includes first-aid care and medical treatment, depending on the type of jellyfish, the severity of the sting and your reaction to it"
+1126,1126,Consult doctor 
+1127,1127,"Treatable by a medical professional, Requires a medical diagnosis"
+1128,1128,"Treatable by a medical professional, Requires a medical diagnosis"
+1129,1129,Consult doctor 
+1130,1130,Consult doctor 
+1131,1131,T - idiopathic livedo reticularis may improve with warming the area
+1132,1132,"T - The initial treatment for both traumatic and degenerative TFCC lesions, with a stable DRUJ"
+1133,1133,Consult doctor 
+1134,1134,Consult doctor 
+1135,1135,T - Aponeurotic and congenital ptosis may require surgical correction if severe enough to interfere with vision or if cosmetics is a concern
+1136,1136,"Treatable by a medical professional, Usually self-diagnosable"
+1137,1137,T – Treatment of CRPS often involves a number of modalities
+1138,1138,"Treatment can help, but this condition can't be cured, Requires a medical diagnosis"
+1139,1139,"Treatment can help, but this condition can't be cured, Requires a medical diagnosis"
+1140,1140,"Treatable by a medical professional, Requires a medical diagnosis"
+1141,1141,Consult doctor 
+1142,1142,"T - Eat slowly, Cut food into small pieces and chew it thoroughly"
+1143,1143,"T - The first line treatment for polymyositis is corticosteroids, Specialized exercise therapy may supplement treatment to enhance quality of life"
+1144,1144,T - Treatment for bullous myringitis usually includes over-the-counter pain relievers and antibiotics. Both of these can be taken either by mouth or in eardrops
+1145,1145,T - Surgical treatment of CVI attempts a cure by physically changing the veins with incompetent valves
+1146,1146,T - Treated by speech language pathologists
+1147,1147,"Treatment can help, but this condition can't be cured, Requires a medical diagnosis"
+1148,1148,Consult doctor 
+1149,1149,A dislocated lens usually is not treated
+1150,1150,"Treatable by a medical professional, Requires a medical diagnosis"
+1151,1151,Treatable by a medical professional
+1152,1152,The patient needs urgent examination by an ophthalmologist
+1153,1153,Treatable by a medical professional
+1154,1154,Consult doctor 
+1155,1155,"Usually self-treatable, Usually self-diagnosable"
+1156,1156,Treatable by a medical professional
+1157,1157,Consult doctor 
+1158,1158,"M -  paroxetine or dapoxetine, as well as clomipramine"
+1159,1159,"Treatable by a medical professional, Requires a medical diagnosis"
+1161,1161,"T-carbogen inhalation, acetazolamide infusion, ocular massage"
+1163,1163,"M-clindamycin,cephalosporins,metronidazole "
+1164,1164,"M-Antidepressants,benzodiazepines"
+1165,1165,"M-tissue plasminogen activator (t-PA),apixaban"
+1166,1166,"T-compression stockings,Sclerotherapy"
+1167,1167,"M-Ethosuximide,Valproic acid,Lamotrigine"
+1168,1168,"M-brimonidine, Doxycycline,Isotretinoin"
+1169,1169,"T-Taking insulin,activity,Healthy eating and monitoring carbohydrates"
+1170,1170,M-antibiotics
+1171,1171,"M- lansoprazole,antibiotics,metronidazole"
+1176,1176,"M-Decongestants,Antihistamines,Nasal steroid sprays,septoplasty can be done"
+1177,1177,"T-applying gentle suction to the object, irrigating the ear"
+1178,1178,T Laparoscopic incisional hernia repair
+1179,1179,"T-Radiotherapy,Sclerotherapy,Radiosurgery"
+1180,1180,"M- ibuprofen, Methotrexate, prednisone"
+1181,1181,"M-Statins, Ezetimibe,niacin, gemfibrozil "
+1182,1182,"T-Freezing with liquid nitrogen,electrocautery,curettage"
+1183,1183,"M- hydrocortisone, fluocinolone, 2 percent ketoconazole"
+1184,1184,"M-Fluorouracil cream,Imiquimod cream,Diclofenac gel"
+1185,1185,"T-compression bandage or stocking, topical or oral antibiotics"
+1186,1186,"M-trichloroacetic acid,cantharidin,  T-cryotherapy, laser therapy"
+1187,1187,"M-propranalol, Oral corticosteroids, Surgical removal"
+1188,1188,"M-azoles and the allylamines,Haloprogin"
+1189,1189,"T-Do not try to drain the blister ,use an antibacterial ointment in case it breaks"
+1190,1190,"M-Ciclopirox,Fluconazole,Itraconazole"
+1191,1191,"T-Hysterectomy,Cervicectomy, chemotherapy or radiation"
+1192,1192,"M-Anticholinergics,Tricyclic antidepressants,Alpha-adrenergic antagonists"
+1193,1193,"T-radiotherapy, intralesional steroids, or surgical excision"
+1194,1194,"M-thiothixene,Antiepileptic,shaloperidol, buspirone"
+1195,1195,"T-lid massage, moist heat, and topical mild steroid drops"
+1196,1196,"M-decongestant pill or nasal spray,antihistamines,"
+1197,1197,"M-ceftazidime,ciprofloxacin ,gentamicin"
+1198,1198,"T-Corrective lenses,Refractive surgery"
+1199,1199,M-steroid ointment
+1200,1200,"M-anti-inflammator and analgesic medications,activity"
+1201,1201,"M-Acetaminophen,Opioids,Lidocaine"
+1202,1202,"M-hepatitis B immunoglobulin,Antiviral medicine"
+1203,1203,"M-Pegylated interferon,EPCLUSA,Ribavirin"
+1204,1204,"M-epinephrine ,anti-inflammatory medications"
+1205,1205,M- vitamin B12 injections of hydroxycobalamin
+1206,1206,"T-oxygen therapy, dialysis"
+1207,1207,"M- Valium, Elavil "
+1208,1208,"M-Hydrocortisone topical,Nystatin,Bacitracin"
+1209,1209,"M-ibuprofen,advice to stay active,paracetamol,colchicine"
+1210,1210,"M-acetaminophen,Epidural injections,Massage,TENS units"
+1211,1211,M- anti-inflammatory drugs and analgesics
+1212,1212,"M-cephalosporins,carbapenems,meropenem/vaborbactam"
+1213,1213,"T-conservative surgery, and mastoidectomy"
+1214,1214,"M-acetaminophen,Using crutches and/or splints"
+1215,1215,"T-chemotherapy(Induction,Consolidation)"
+1216,1216,"M-chlorpromazine, flupenthixol,clozapine, olanzapine"
+1217,1217,"M- desmopressin, thalidomide, aminocaproic acid and estrogens"
+1218,1218,M- acetaminophen
+1219,1219,"T-Aspiration,Surgery,Immobilization"
+1220,1220,"M- amitriptyline or nortriptyline, carbamazepine"
+1221,1221,"T-compression stockings,Sclerotherapy"
+1222,1222,"M-Pyrithione zinc shampoos,Selenium sulfide shampoos"
+1223,1223,"M-Blinatumomab,Tisagenlecleucel,Vincristine"
+1224,1224,T-Chemotherapy and Blood transfusion
+1225,1225,"M- imatinib mesylate, nilotinib ,bone marrow or stem cell transplantation"
+1226,1226,"M-Ibuprofen,Ampicillin, splint or cast is used"
+1227,1227,"T-Surgica Intervention,  M-Codeine/acetaminophen"
+1228,1228,"T-Open Reduction and Internal Fixation, M-Ibuprofen,Acetaminophen"
+1229,1229,"M-Midazolam,Morphine,  T-Reduction  "
+1230,1230,"M-intravenous morphine (0.1 mg/kg q2-4h),Oxycodone and aspirin,ibuprofen,"
+1231,1231,"M-anesthetic injection into the finger,buddy taped"
+1232,1232,"M- ibuprofen,Acetaminophen, T-Physical therapy,surgery may be needed"
+1233,1233,"M-cyclosporin, immunoglobulin, levamisole,Acyclovir"
+1234,1234,"M-Ibuprofen,Tricyclic antidepressants,Oral opioids,Cyclobenzaprine "
+1235,1235,"M-anti-inflammatory drugs and cortisone,Colchicine"
+1237,1237,"M- ibuprofen, T-draining seroma,minor surgery"
+1239,1239,"T-corticosteroid injections,fasciectomy,Needle aponeurotomy"
+1240,1240,"M- trimethoprim-sulfamethoxazole 160/800, oral tablet, twice a day for seven to 10 days"
+1241,1241,"M-fluoxetine,sertraline ,paroxetine "
+1243,1243,T-mechanical ventilation and intensive-care-unit support
+1245,1245,"M- minoxidil, finasteride"
+1247,1247,"T-Intrauterine insemination ,Intracytoplasmic sperm injection"
+1249,1249,"M- methotrexate,Topical treatment with eye drops"
+1251,1251,"T-liquid or low-residue diet, surgery"
+1253,1253,"T-Resting, stabilizing, icing,  M-ibuprofen"
+1255,1255,M-Carbamazepine
+1257,1257,"M-Antiepileptic drugs,Valproic acid"
+1259,1259,"M- collagenase clostridium histolyticum, colchicine"
+1261,1261,"M-Fluoroquinolones,Macrolides"
+1263,1263,"T-Resection, whipple procedure"
+1265,1265,"T-Resection,Bypass,Chemotherapy,Radiation therapy"
+1267,1267,"M-gemcitabine,fluorouracil, cisplatin "
+1269,1269,"M-Hydroxyurea,Anagrelide,Interferon alfa"
+1271,1271,"M- levothyroxine,thyroxine"
+1273,1273,"M-Ibuprofen,acetaminophen, lidocaine"
+1275,1275,"T-chemotherapy,Surgery"
+1277,1277,"T-neoadjuvant chemotherapy,Surgery"
+1279,1279,"T-Cytoreductive/debulking surgery, chemotherapy"
+1281,1281,"M-Methylcellulose eye drops, T-gastrotomy,Surgery"
+1283,1283,"T-Glasses and Contact Lenses, Refractive surgery"
+1285,1285,"M-oral antihistamine,Epinephrine"
+1287,1287,"T- RICE(Rest, Ice,Compress,elevate), M-acetaminophen"
+1289,1289,"T-debridement,angioplasty"
+1291,1291,Consult Doctor
+1293,1293,"M-beta blockers and ACE inhibitors, coenzyme Q10, insulin"
+1295,1295,"T-Surgery(Partial hepatectomy,whipple procedure),chemotherapy"
+1297,1297,"M-captopril,losartan,Calcium supplements"
+1299,1299,"M-carbimazole, methimazole and propylthiouracil"
+1301,1301,"T-Airway,Craniotomy and surgical drainage,Pharmacotherapy"
+1303,1303,"M-Thrombolytics,Anticoagulants"
+1305,1305,M- acetaminophen(not more than 4 g/day.)
+1307,1307,"M-Anti-androgen blockers,Vaniqa "
+1309,1309,"M-Tetrabenazine,reserpine"
+1311,1311,"M-tretinoin, Alpha hydroxy acids "
+1315,1315,"M-aspirin,intravenous clot-busting drugs"
+1317,1317,"M-zoledronic acid, indomethacin"
+1319,1319,"T- Pneumonectomy,Radiation therapy"
+1321,1321,"T-Pleurodesis, Thoracotomy"
+1323,1323,"M-Hydroquinone,Tretinoin"
+1325,1325,"M- ibuprofen , Ice massage"
+1327,1327,T-electrocautery ablation
+1329,1329,T-Haematopoietic stem cell transplantation and Radiation therapy
+1331,1331,M-Bisphosphonates and Calcitonin
+1333,1333,"T-metastasectomy,Radiation therapy,chemotherapy"
+1335,1335,"M-tetrahydrobiopterin,sapropterin"
+1337,1337,M-0.1 -0.05% betamethasone dipropionate
+1339,1339,"M-Methylprednisolone,Cyclophosphamide"
+1345,1345,"M-aspirin, paracetamol,anti-inflammatory drugs, opiates. "
+1347,1347,"T- PRICE(Protecting,Resting,Icing,Compressing,Elevating)"
+1349,1349,"T-Eyeglasses with progressive lenses,Surgery( implantation of a corneal inlay)"
+1351,1351,T-surgical therapy(posterior colporrhaphy)
+1353,1353,"M-Vitamin A/beta-carotene,Docosahexaenoic acid (DHA)"
+1355,1355,"T-surgery, Radiation Therapy, Chemotherapy"
+1357,1357,"M-3-day course of high-dose IV methylprednisolone,prednisone"
+1359,1359,"T-rest, ice, compression, and elevation (RICE), M- ibuprofen "
+1361,1361,"T-Surgery(Pneumonectomy), Chemotherapy"
+1363,1363,M-prednisone(1 milligram per kilogram of body weight per day)
+1365,1365,Consult Doctor
+1367,1367,M-oral or intravenous (IV) antibiotics
+1369,1369,"M-anticoagulant,heparin or fondaparinux ,alteplase "
+1371,1371,"M-Antifungals-Systemic,Topical"
+1373,1373,"T-Procedural sedation and analgesia,Reduction,Traction"
+1375,1375,"M-Pepto-Bismol (2 ounces four times daily or two tablets four times daily) ,ORS"
+1379,1379,M-antibiotics and folic acid
+1381,1381,T-nephrectomy followed by chemotherapy
+1383,1383,"M- Advil, Aleve, or Motrin (NSAIDs)"
+1385,1385,"M-Penicillin G benzathine,Azithromycin"
+1387,1387,"M-Prednisone,Melphalan,Colchicine"
+1389,1389,"T-Posterior fossa decompression surgery,Spinal laminectomy"
+1393,1393,T-surgery
+1395,1395,"M-tricyclic antidepressants, haloperidol"
+1397,1397,"T-Patching or covering the better-seeing eye ,Surgery"
+1399,1399,Consult Doctor 
+1403,1403,"M-Risperdal, Clozaril, Seroquel, Geodon, and Zyprexa."
+1405,1405,M-Intralesional steroid injections
+1409,1409,"M-daily aspirin,clopidogrel"
+1411,1411,"M-Fluoxetine,Propranolol,Alprazolam "
+1415,1415,"M-Tums Extra Strength, Cal-Plus, Caltrate, Os-Cal 500 ,Ergocalciferol "
+1417,1417,M-N-acetylcysteine 10% emulsion
+1421,1421,"M-Corticosteroid injections (intralesional steroids),Silicone gel"
+1423,1423,T-surgery(Plaster cast)
+1425,1425,M-Metformin
+1427,1427,"M-Fresh frozen plasma,Heparin,Warfarin "
+1429,1429,"T-Closed reduction, M-hydrocodone and acetaminophen "
+1431,1431,"M-Vitamin D3,Vitamin D2,cholecalciferol"
+1433,1433,"M-metoprolol,Metoprolol Succinate ER"
+1435,1435,"M-amantadine, Pentothal,risperidone"
+1437,1437,"M- testosterone,AndroGel,Androderm"
+1439,1439,"M-desmopressin [DDAVP],antifibrinolytics"
+1441,1441,"M-Metronidazole,Clindamycin"
+1443,1443,"M-Smoking cessation aid,Narcotic"
+1445,1445,"M-Alprazolam, Citalopram, and Clomipramine"
+1449,1449,M- clonidine (Catapres) or guanfacine (Tenex).
+1451,1451,"M-Dextroamphetamine,methylphenidate"
+1453,1453,"M-intravenous immunoglobulin,Celecoxib,Gabapentin"
+1455,1455,"M-ceftazidime, cefepime, Imipenem-cilastatin, meropenem"
+1457,1457,"M-Ibuprofen,Ketoprofen,Methylprednisolone "
+1461,1461,Consult Doctor
+1463,1463,"M-Antithymocyte antibodies,Cyclophosphamide "
+1465,1465,"M-topical antifungal imidazole,5-fluorouracil 1% solution "
+1467,1467,"M-Gabapentin,Pregabalin,Baclofen"
+1469,1469,"M-antiepileptic drugs,Carbamazepine"
+1471,1471,"M-amitriptyline, Neurontin, and Tegretol"
+1473,1473,"M-Intravitreal triamcinolone,intravitreal aflibercept and ranibizumab "
+1475,1475,"M-Methotrexate,Azathioprine,Ciprofloxacin ophthalmic"
+1479,1479,"T-massage of the lacrimal duct area, Probing"
+1483,1483,"M-Carbonic anhydrase inhibitors,Dorzolamide "
+1487,1487,"M-Antibiotic,Cefotaxime "
+1489,1489,"M-Nonsteroidal Anti-inflammatory Drugs,Corticosteroids"
+1491,1491,T-Removal of leukoplakia patches by freezing
+1493,1493,"M- corticosteroids,Antibiotics, antifungal medications"
+1495,1495,"M-topical nitrates, calcium channel blockers, onabotulinumtoxinA,ciprofloxacin"
+1497,1497,"M-Clematis,Nitric Acid and Prunus Spinosa"
+1499,1499,"T-Cryosurgery (freezing),Electrocauterization,Laser surgery"
+1501,1501,"M-anti-inflammatory (corticosteroids), immunosuppressants( azathioprine)"
+1503,1503,"M-Corticosteroids,Immunomodulators"
+1505,1505,"T-Skin grafting,Reconstructive flap surgery"
+1507,1507,"M-acetaminophen,Nonsteroidal anti-Inflammatory drug"
+1509,1509,"M-Beractant,Calfactant"
+1511,1511,"M-Ocu Plus vitamins, Vitamin-A and zinc"
+1513,1513,M-Ascorbic acid 
+1515,1515,"M-thiamine, Vitamin B1"
+1517,1517,"M-topical steroids or bexarotene gel, Tazarotene, low-dose oral etoposide, and imiquimod"
+1519,1519,"T-Diuretic,Pacemaker,LVAD,Coronary bypass surgery,Heart valve surgery"
+1521,1521,"T-motor rehabilitation,  M-Calcarea Carb,Baryta Carb ,Tuberculinum and Carcinosin"
+1523,1523,"T-Fine-needle aspiration, Surgery"
+1525,1525,"T-Lumpectomy,  Mastectomy,Hormonal therapy"
+1527,1527,"M-misoprostol (a single dose of 600mg),Dilation And Curettage"
+1529,1529," T-surgery, chemotherapy, radiation and hormone therapy"
+1531,1531," T-surgery, chemotherapy, radiation and hormone therapy"
+1533,1533," T-surgery, chemotherapy, radiation and hormone therapy"
+1535,1535,"M-botulinum toxin,Levodopa,Procyclidine hydrochloride,Diazepam,Lorazepam,Clonazepam,Baclofen"
+1537,1537,"M-Nutritional supplementation,tricyclic antidepressants ,SSRIs"
+1539,1539,"T-Providing intravenous fluids (IV) and balancing electrolytes (body salts), Blood Transfusion"
+1540,1540,"M-Coagadex, Vitamin Supplements"
+1542,1542,"M-Corticosteroids ,Mineralocorticoids, Salt Supplements"
+1544,1544,Consult Doctor Immediately
+1546,1546,"T-Anticonvulsants,proper nutrition and hydration and keeping the airway open"
+1548,1548,"T-Bronchodilator,Breathing exercises,Sustained maximal inspiration and cough assist"
